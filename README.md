@@ -209,10 +209,6 @@ Designed using **Figma**.
 
 The complete UI wireframes are included in this repository under the **images/** folder.
 
-> Note: The original Figma file was created in a restricted Team Project workspace, so public link sharing is unavailable.
-```
-
----
 
 ## Designed Screens
 
