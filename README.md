@@ -18,7 +18,7 @@ This project follows enterprise software engineering principles by completing pr
 
 | Item              | Details                                |
 |-------------------|--------------------------------------  |
-| Project Name      | TechVerse                              |
+| Project Name      | TechoVerse                              |
 | Project Type      | AI Powered Project Management Platform |
 | Development Track | Full Stack Development                 |
 | Internship        | Prodesk IT                             |
