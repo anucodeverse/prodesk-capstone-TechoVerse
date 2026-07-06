@@ -1,10 +1,10 @@
-# 🚀 TechoVerse - AI Powered Project Management Platform
+#  TechoVerse - AI Powered Project Management Platform
 
 > **Sprint 13 Capstone Project | Prodesk IT**
 
 ---
 
-# 📌 Project Overview
+#  Project Overview
 
 **TechoVerse** is an AI-powered Project Management Platform designed to help software development teams efficiently plan, organize, collaborate, and monitor projects from a centralized workspace.
 
@@ -14,7 +14,7 @@ This project follows enterprise software engineering principles by completing pr
 
 ---
 
-# 👨‍💻 Project Information
+#  Project Information
 
 | Item              | Details                                |
 |-------------------|--------------------------------------  |
@@ -35,7 +35,7 @@ TechoVerse provides a centralized project management platform that combines task
 
 ---
 
-# 🎯 Objectives
+#  Objectives
 
 - Improve project organization
 - Simplify task management
@@ -47,7 +47,7 @@ TechoVerse provides a centralized project management platform that combines task
 
 ---
 
-# 📋 Project Scope
+#  Project Scope
 
 ## Included
 
@@ -74,7 +74,7 @@ TechoVerse provides a centralized project management platform that combines task
 
 ---
 
-# ⭐ Core Features (Priority)
+#  Core Features (Priority)
 
 ## Priority 1 (Sprint 14)
 
@@ -359,10 +359,10 @@ prodesk-capstone-TechVerse/
 
 ---
 
-# 🚀 Installation
+#  Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/prodesk-capstone-TechVerse.git
+https://github.com/anucodeverse/prodesk-capstone-TechoVerse
 
 cd prodesk-capstone-TechVerse
 
@@ -425,7 +425,7 @@ npm run dev
 
 ---
 
-# 💡 Future Enhancements
+#  Future Enhancements
 
 - AI Sprint Prediction
 - AI Task Prioritization
