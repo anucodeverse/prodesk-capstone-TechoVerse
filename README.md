@@ -177,7 +177,7 @@ TechoVerse provides a centralized project management platform that combines task
 
 ---
 
-# 🏗 System Architecture
+#  System Architecture
 
 The architecture follows a modern three-tier full-stack architecture.
 
@@ -185,7 +185,7 @@ The architecture follows a modern three-tier full-stack architecture.
 
 ---
 
-# 🗄 Database Design (ERD)
+#  Database Design (ERD)
 
 Collections
 
