@@ -133,7 +133,7 @@ TechoVerse provides a centralized project management platform that combines task
 
 ---
 
-# 🛠 Technology Stack
+#  Technology Stack
 
 ## Frontend
 
